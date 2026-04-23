@@ -40,4 +40,10 @@ else :
 
 des_weight = float(earth_weight * relative_gravity)   # destination weight=Earth weight × relative gravity
 
-print(f'Your weight in {planet} is  {des_weight} Kg')
+print(f'Your weight in {planet} is  {des_weight} Kg') 
+
+
+
+
+
+
