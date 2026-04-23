@@ -42,6 +42,8 @@ des_weight = float(earth_weight * relative_gravity)   # destination weight=Earth
 
 print(f'Your weight in {planet} is  {des_weight} Kg') 
 
+print("THANK YOU ")
+
 
 
 
